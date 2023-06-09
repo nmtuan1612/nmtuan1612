@@ -5,7 +5,7 @@ My name is Manh Tuan.
 <h2>I'm a Web Developer</h2>
 
 # 💫 About Me:
-I've been learning to code for 5 years since i entered university. I started with Web at 3rd year, then have really found a passion for Web development.
+I've been learning to code since i entered university. I started with Web at 3rd year, then have really found a passion for Web development.
 
 * 🌍  I'm based in Hanoi, Vietnam
 * ✉️  You can contact me at [tuancn8k63uet@gmail.com](mailto:tuancn8k63uet@gmail.com)
